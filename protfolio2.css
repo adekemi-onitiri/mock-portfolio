@@ -1,0 +1,54 @@
+body{
+     
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #508ca4;
+    margin: 2%;
+    margin-left:    50%;
+    margin-right:50%;
+   
+    background-image: url(images2/cyberpadlock2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    padding: 4%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+.mainbody{
+    display: flex;
+    flex-direction: row; 
+    padding-top: 5%; 
+    padding-bottom: 5%; 
+    margin-left: 8%; 
+    margin-right: 8%;
+}
+
+.role{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+  
+}
+
+.competences1{
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    margin-left: 2%;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    -ms-flex-align: center;
+}
+
+
+.mgt{
+    margin-left: 25%;
+}
+
+
